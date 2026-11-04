@@ -3,6 +3,6 @@ title: Brewing guide
 ---
 # Brewing guide
 
-## Green tea
+## Oolong tea
 
-Steep green tea at 80°C for two minutes.
+Steep oolong tea at 85°C for three minutes.
