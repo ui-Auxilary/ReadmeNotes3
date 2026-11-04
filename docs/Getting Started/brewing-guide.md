@@ -3,6 +3,10 @@ title: Brewing guide
 ---
 # Brewing guide
 
-## Herbal tea
+## Green tea
 
-Steep herbal tea at 100°C for five minutes.
+Steep green tea at 80°C for two minutes.
+
+## Serving
+
+Serve immediately in a warm cup.
