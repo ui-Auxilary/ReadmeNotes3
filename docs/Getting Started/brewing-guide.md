@@ -3,6 +3,6 @@ title: Brewing guide
 ---
 # Brewing guide
 
-## Black tea
+## Herbal tea
 
-Steep black tea at 95°C for four minutes.
+Steep herbal tea at 100°C for five minutes.
