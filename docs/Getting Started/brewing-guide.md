@@ -1,6 +1,6 @@
 ---
 title: Brewing guide
-excerpt: A quick guide to brewing green, black and herbal tea.
+excerpt: Tea brewing temperatures and timings, reviewed by Jane.
 ---
 # Brewing guide
 
