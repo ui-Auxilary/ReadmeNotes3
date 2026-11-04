@@ -1,5 +1,6 @@
 ---
 title: Brewing guide
+excerpt: A quick guide to brewing green, black and herbal tea.
 ---
 # Brewing guide
 
