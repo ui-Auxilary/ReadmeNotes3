@@ -1,6 +1,6 @@
 ---
 title: Brewing guide
-excerpt: Tea brewing temperatures and timings, reviewed by Jane.
+excerpt: Tea brewing temperatures and timings, checked by Jane Doe.
 ---
 # Brewing guide
 
