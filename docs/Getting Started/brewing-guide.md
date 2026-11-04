@@ -3,6 +3,6 @@ title: Brewing guide
 ---
 # Brewing guide
 
-## Oolong tea
+## Black tea
 
-Steep oolong tea at 85°C for three minutes.
+Steep black tea at 95°C for four minutes.
