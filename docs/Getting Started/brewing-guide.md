@@ -6,7 +6,7 @@ excerpt: Tea brewing temperatures and timings, checked by Jane Doe.
 
 ## Green tea
 
-Steep green tea at 80°C for two minutes.
+Steep green tea at 79°C for two minutes.
 
 ## Serving
 
